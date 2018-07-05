@@ -1,4 +1,4 @@
 # foa
 Frankfurt Online Analizer - foa
 
-Viewer for VdG DAQ
+Viewer for VdG DAQ.
